@@ -1,0 +1,7 @@
+
+customtkinter
+requests
+pycryptodome
+pypiwin32
+virtualenv
+pyinstaller
